@@ -17,13 +17,13 @@ A = M*H
 Speak = ("With the current numbers you will burn " + str(A) + " KCal per Hour walking!")
 print (Speak)
 
-#K =
+#Lbs =
 ##Kilos to be converted to lbs
 #KPH =
 ##Your speed in Kilometers per hour
 #MPH =
 ##Your speed in Miles per hour
-#WeighLbs-K = 2.2 * K
+#WeighLbs-K = Lbs / 2.2
 #Kph-m/s = 0.277778 * KPH
 #Mph-m/s = 0.44704 * MPH
 
